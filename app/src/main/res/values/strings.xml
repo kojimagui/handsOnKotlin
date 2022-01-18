@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">HandsOn</string>
+    <string name="hint_email">E-mail</string>
+    <string name="hint_password">Password</string>
+    <string name="btn_login">Entrar</string>
+    <string name="txt_signup">Cadastrar</string>
+</resources>
